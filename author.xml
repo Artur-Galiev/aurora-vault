@@ -4,7 +4,7 @@
   <channel>
     <title>ResultsFeed</title>
     <link>https://curerss.comvision.tv/</link>
-    <description>Datums Anpassung</description>
+    <description>Source Anpassung</description>
     <language>de-DE</language>
     <copyright>2024 Com Vision Betreibergesellschaft</copyright>
     <lastBuildDate>Tue, 09 Jan 2024 10:33:26 GMT</lastBuildDate>
@@ -12,22 +12,15 @@
       <title>münchen heute vom 08.01.2024</title>
       <pubDate>Mon, 08 Jan 2024 17:09:01 GMT</pubDate>
       <description>test</description>
-      <author>TV - München.TV</author>
-      <link>https://curerss.comvision.tv/Downloads/video/cut_v_772202.mp4</link>
+      <source>TV - München.TV</source>
+      <link>https://www.w3schools.com/xml/rss_tag_pubdate_item.asp</link>
     </item>
     <item>
       <title>RTL Aktuell</title>
       <pubDate>Mon, 08 Jan 2024 17:55:48 GMT</pubDate>
       <description>test</description>
-      <author>TV - RTL</author>
-      <link>https://curerss.comvision.tv/Downloads/video/cut_v_772204.mp4</link>
-    </item>
-    <item>
-      <title>Unknown</title>
-      <pubDate>Mon, 08 Jan 2024 16:02:21 GMT</pubDate>
-      <description>... Die [Deutsche] [Bahn] kritisiert  ...</description>
-      <author>Radio - Rock Antenne Hamburg</author>
-      <link>https://curerss.comvision.tv/Downloads/audio/cut_ece551a3-8670-4114-8a2d-23bcfd9ee0fc.mp3</link>
+      <source>TV - RTL</source>
+      <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     </item>
   </channel>
 </rss>
